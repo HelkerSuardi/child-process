@@ -7,7 +7,7 @@ An api for testing child process blocking the event loop
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to test?](#how-to-test?)
+- [How to test?](#how-to-test)
 
 ## Requirements
 
@@ -20,18 +20,18 @@ Before running this project, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/HelkerSuardi/background-jobs
+   git clone https://github.com/HelkerSuardi/child-process
    ```
    or
 
    ```
-   git clone git@github.com:HelkerSuardi/background-jobs.git
+   git clone git@github.com:HelkerSuardi/child-process.git
    ```
 
 2. Change into the project directory:
 
    ```
-   cd background-jobs
+   cd child-process
    ```
 
 3. Install all packages
