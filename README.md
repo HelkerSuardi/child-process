@@ -20,7 +20,7 @@ Before running this project, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/HelkerSuardi/child-process
+   git clone https://github.com/HelkerSuardi/child-process.git
    ```
    or
 
